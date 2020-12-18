@@ -1,2 +1,6 @@
 Line 1
+<<<<<<< HEAD
 Line 2
+=======
+Remote Line2
+>>>>>>> 7d5debc61759639cd12d7eeaf69365cf3c284879
